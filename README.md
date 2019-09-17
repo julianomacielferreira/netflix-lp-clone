@@ -26,7 +26,9 @@ $ npm -v
 
 ```bash
 $ npm install
+```
+
+# License
 
 Please see the [license
-agreement](https://github.com/julianomacielferreira/biz-website-tutorial/blob/master/LICENSE).
-```
+agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICENSE).
