@@ -1,0 +1,19 @@
+{
+  "name": "netflix-lp",
+  "version": "1.0.0",
+  "description": "Based on Tutorial \"Build a Netflix Landing Page Clone with HTML, CSS & JS\" from Traversy Media.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianomacielferreira/netflix-lp.git"
+  },
+  "author": "Juliano Maciel Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianomacielferreira/netflix-lp/issues"
+  },
+  "homepage": "https://github.com/julianomacielferreira/netflix-lp#readme"
+}
