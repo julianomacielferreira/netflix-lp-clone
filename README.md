@@ -44,3 +44,19 @@ $ npm run start
 
 Please see the [license
 agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICENSE).
+
+# Screenshots
+
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
+![](assets/screenshots/4.png)
+![](assets/screenshots/5.png)
+![](assets/screenshots/6.png)
+![](assets/screenshots/7.png)
+![](assets/screenshots/8.png)
+![](assets/screenshots/9.png)
+![](assets/screenshots/10.png)
+![](assets/screenshots/11.png)
+![](assets/screenshots/12.png)
+![](assets/screenshots/13.png)
