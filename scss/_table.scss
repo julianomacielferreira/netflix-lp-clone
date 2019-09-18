@@ -1,0 +1,32 @@
+// Table
+.table {
+  width: 100%;
+  margin-top: 2rem;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  thead {
+    th {
+      text-transform: uppercase;
+      padding: 0.8rem;
+    }
+  }
+
+  tbody {
+    tr {
+      td {
+        color: $gray-color;
+        padding: 0.8rem 1.2rem;
+        text-align: center;
+
+        &:first-child {
+          text-align: left;
+        }
+      }
+
+      &:nth-child(odd) {
+        background: #222222;
+      }
+    }
+  }
+}
