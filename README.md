@@ -1,4 +1,4 @@
-# Netflix Landing Page clone
+# Netflix Landing Page Clone
 
 Based on Tutorial ["Build a Netflix Landing Page Clone with HTML, CSS &amp; JS"](https://www.youtube.com/watch?v=P7t13SGytRk) from Traversy Media&trade;.
 
