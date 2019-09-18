@@ -68,3 +68,40 @@
     margin: 0 0 2rem;
   }
 }
+
+@media (max-width: 960px) {
+  .showcase {
+    height: 70vh;
+  }
+
+  .hide-sm {
+    display: none;
+  }
+
+  .showcase-top {
+    img {
+      top: 30%;
+      left: 5%;
+      transform: translate(0);
+    }
+  }
+
+  .showcase-content {
+    h1 {
+      font-size: 3.7rem;
+      line-height: 1;
+    }
+
+    p {
+      font-size: 1.5rem;
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .showcase {
+    &::after {
+      box-shadow: inset 80px 80px 250px $black-color, inset -80px -80px 250px $black-color;
+    }
+  }
+}

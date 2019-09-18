@@ -21,3 +21,17 @@
 .text-dark {
   color: $gray-color;
 }
+
+@media (max-width: 960px) {
+  .text-xl {
+    font-size: 1.5rem;
+  }
+
+  .text-lg {
+    font-size: 1.3rem;
+  }
+
+  .text-md {
+    font-size: 1rem;
+  }
+}

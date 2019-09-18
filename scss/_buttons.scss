@@ -37,3 +37,10 @@
 .btn-icon {
   margin-left: 1rem;
 }
+
+@media (max-width: 960px) {
+  .btn-xl {
+    font-size: 1.5rem;
+    padding: 1.4rem 2rem;
+  }
+}
