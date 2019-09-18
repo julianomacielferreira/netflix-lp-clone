@@ -2,6 +2,8 @@
 
 Based on Tutorial ["Build a Netflix Landing Page Clone with HTML, CSS &amp; JS"](https://www.youtube.com/watch?v=P7t13SGytRk) from Traversy Media&trade;.
 
+The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
+
 # Disclaimer
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
@@ -9,6 +11,8 @@ I coded this website template only for the purpose of learning. **All the credit
 - Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 - Traversy Media&trade; site: [https://www.traversymedia.com/](https://www.traversymedia.com/)
+
+- Font Awesome&trade; site: [https://fontawesome.com/](https://fontawesome.com/)
 
 ## How to Install and Run
 
@@ -27,6 +31,14 @@ $ npm -v
 ```bash
 $ npm install
 ```
+
+**3. Start the webpack-dev-server:**
+
+```bash
+$ npm run start
+```
+
+**4. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
 
 # License
 
