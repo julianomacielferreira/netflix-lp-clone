@@ -8,16 +8,6 @@ The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fo
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
 
-- Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-
-- Traversy Media&trade; site: [https://www.traversymedia.com/](https://www.traversymedia.com/)
-
-- Font Awesome&trade; site: [https://fontawesome.com/](https://fontawesome.com/)
-
-- Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
-
-- Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
-
 ## How to Install and Run
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
@@ -44,6 +34,23 @@ $ npm run start
 
 **4. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
 
+# License
+
+Please see the [license
+agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICENSE).
+
+# References
+
+- Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+- Traversy Media&trade;: [https://www.traversymedia.com/](https://www.traversymedia.com/)
+
+- Font Awesome&trade;: [https://fontawesome.com/](https://fontawesome.com/)
+
+- Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
+
+- Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
+
 # Screenshots
 
 ![](assets/screenshots/1.png)
@@ -59,8 +66,3 @@ $ npm run start
 ![](assets/screenshots/11.png)
 ![](assets/screenshots/12.png)
 ![](assets/screenshots/13.png)
-
-# License
-
-Please see the [license
-agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICENSE).
