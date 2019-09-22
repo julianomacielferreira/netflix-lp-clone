@@ -1,6 +1,6 @@
-# Netflix Landing Page Clone
+# Netflix&trade; Landing Page Clone
 
-Based on Tutorial ["Build a Netflix Landing Page Clone with HTML, CSS &amp; JS"](https://www.youtube.com/watch?v=P7t13SGytRk) from Traversy Media&trade;.
+Based on Tutorial ["Build a Netflix&trade; Landing Page Clone with HTML, CSS &amp; JS"](https://www.youtube.com/watch?v=P7t13SGytRk) from Traversy Media&trade;.
 
 The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
 
@@ -14,7 +14,9 @@ I coded this website template only for the purpose of learning. **All the credit
 
 - Font Awesome&trade; site: [https://fontawesome.com/](https://fontawesome.com/)
 
-- Sass site: [https://sass-lang.com/](https://sass-lang.com/)
+- Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
+
+- Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
 
 ## How to Install and Run
 
