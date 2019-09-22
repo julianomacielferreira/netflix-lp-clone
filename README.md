@@ -14,6 +14,8 @@ I coded this website template only for the purpose of learning. **All the credit
 
 - Font Awesome&trade; site: [https://fontawesome.com/](https://fontawesome.com/)
 
+- Sass site: [https://sass-lang.com/](https://sass-lang.com/)
+
 ## How to Install and Run
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
@@ -40,11 +42,6 @@ $ npm run start
 
 **4. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
 
-# License
-
-Please see the [license
-agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICENSE).
-
 # Screenshots
 
 ![](assets/screenshots/1.png)
@@ -60,3 +57,8 @@ agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICEN
 ![](assets/screenshots/11.png)
 ![](assets/screenshots/12.png)
 ![](assets/screenshots/13.png)
+
+# License
+
+Please see the [license
+agreement](https://github.com/julianomacielferreira/netflix-lp/blob/master/LICENSE).
