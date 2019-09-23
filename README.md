@@ -8,7 +8,7 @@ The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fo
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
 
-## How to Install and Run
+## Install Dependencies
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
 
@@ -26,13 +26,15 @@ $ npm -v
 $ npm install
 ```
 
-**3. Start the webpack-dev-server:**
+## Start webpack-dev-server
+
+**1. Run the following command:**
 
 ```bash
 $ npm run start
 ```
 
-**4. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
+**2. And then access [http://localhost:8080/](http://localhost:8080/) on your browser (it's setup to open automatically).**
 
 # License
 
