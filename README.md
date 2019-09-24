@@ -8,7 +8,7 @@ The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fo
 
 I coded this website template only for the purpose of learning and enhancing my skillset. 
 
-**Access [Traversy Media&trade;]((https://www.traversymedia.com/)) to learn too.**
+**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
 
 # Become a Patron of Traversy Media
 
