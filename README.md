@@ -56,12 +56,6 @@ The files will be created in the folder **/dist**.
 ![](assets/screenshots/12.png)
 ![](assets/screenshots/13.png)
 
-# Disclaimer
-
-I coded this website template only for the purpose of learning and enhancing my skillset. 
-
-**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
-
 # Become a Patron of Traversy Media
 
 Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
